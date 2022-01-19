@@ -43,7 +43,7 @@
     "vmAdminPassword": {
         "reference": {
             "keyVault": {
-              "id": "/subscriptions/3c8deffd-e61e-4cf4-a054-0414465da130/resourceGroups/terraform-resource-group/providers/Microsoft.Resources/deployments/VM-Domain-Join-20220119-055611-298f/operations/B435ED9561A883B2"
+              "id": "/subscriptions/3c8deffd-e61e-4cf4-a054-0414465da130/resourceGroups/terraform-resource-group/providers/Microsoft.KeyVault/vaults/devcloudopskv"
             },
             "secretName": "localadmin"
           }
